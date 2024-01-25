@@ -1,3 +1,5 @@
+<a name="oben"></a>
+
 # Schatzkiste
 
 Mit diesem Projekt wird eine Schatzkiste gebaut, die sich mit dem Betätigen von vier Tasten in der 
@@ -112,6 +114,7 @@ Verdrahte das Shield, die LEDs, Taster und den Reed-Kontakt nach den Verdrahtung
 + Ist der Code richtig, öffen die Servo-Motor die Verschluss-Einrichtung
 
 ---
-
+<div style="position:absolute; left:2cm; ">   
+<ol class="breadcrumb" style="border-top: 2px solid black;border-bottom:2px solid black; height: 45px; width: 900px;"> <p align="center"><a href="#oben">nach oben</a></p></ol>
 ---
 
