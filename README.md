@@ -21,20 +21,20 @@ Die Schatzkiste
 ## Hardware
 Die Stückliste für die Schatzkiste:
 
-1 x NANO
-1 x NANO-Shield
-2 x Buchsenleisten
-2 x Stiftleisten
-2 x Servo Motore SG90
-2 x 90° Verschluss Winkel
-1 x Reed-Kontakt mit Magnet
-4 x Taster
-4 x LEDs weiß
-1 x LED grün
-5 x 1kOhm Widerstand
-1 x 9V Batterie
-1 x 9V Batterie-Clip
-1 x Gelaserte Schatzkiste (4mm Sperrholz 600x300)
++ 1 x NANO
++ 1 x NANO-Shield
++ 2 x Buchsenleisten
++ 2 x Stiftleisten
++ 2 x Servo Motore SG90
++ 2 x 90° Verschluss Winkel
++ 1 x Reed-Kontakt mit Magnet
++ 4 x Taster
++ 4 x LEDs weiß
++ 1 x LED grün
++ 5 x 1kOhm Widerstand
++ 1 x 9V Batterie
++ 1 x 9V Batterie-Clip
++ 1 x Gelaserte Schatzkiste (4mm Sperrholz 600x300)
 
 ---
 
@@ -63,7 +63,7 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Zeichne und drucke 4 Platinen Füße für den NANO, D=5mm x 5mm
 + Klebe die Füße auf die Unterseite des NANO-Shields
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/spacer5mm.pn)
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/spacer5mm.png)
 
 
 ---
