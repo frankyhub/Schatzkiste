@@ -14,6 +14,8 @@ der Code erhalten bleibt.
 
 Die Schatzkiste
 
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/Schatzkiste.png)
+
 ---
 
 ## Hardware
@@ -52,8 +54,8 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Montiere die LEDs und die Taster an die Gehäuse-Front
 + Verklebe die Gehäuseteile. Die untere Rückwand wird nicht verklebt
 
-![Schatzkiste](Schatzkiste.png)
-schatzkiste_lk.png
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/schatzkiste_lk.png)
+
 
 ---
 
@@ -61,8 +63,8 @@ schatzkiste_lk.png
 + Zeichne und drucke 4 Platinen Füße für den NANO, D=5mm x 5mm
 + Klebe die Füße auf die Unterseite des NANO-Shields
 
-![Schatzkiste]()
-spacer5mm.png
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/spacer5mm.pn)
+
 
 ---
 
@@ -70,30 +72,30 @@ spacer5mm.png
 + Bestücke das NANO-Shield mit den Buchsenleisten und den beiden Stiftleisten für die Servo-Motore
 + Biege an einem Ende der Widerstände und am +Pol der LEDs eine Öse
 
-![Schatzkiste]()
-r-led.jpg
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/r-led.jpg)
+
 
 Führe Anschlussdrähte für die Widerstände und der LEDs durch die Öse und Löte sie an
 
-![Schatzkiste]()
-sk10.png
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk10.png)
 
-![Schatzkiste]()
-sk11.png
 
-![Schatzkiste]()
-sk12.png
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk10.png)
 
-![Schatzkiste]()
-sk13.png
+
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk12.png)
+
+
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk13.png)
+
 
 Verdrahte das Shield, die LEDs, Taster und den Reed-Kontakt nach den Verdrahtungsplan
 
-![Schatzkiste]()
-shield.png
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/Shield.png)
 
-![Schatzkiste]()
-schatzkiste-verdrahtung.png
+
+![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/Verdrahtung.png)
+
 
 ---
 
