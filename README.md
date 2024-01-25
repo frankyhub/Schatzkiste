@@ -3,7 +3,7 @@
 Mit diesem Projekt wird eine Schatzkiste gebaut, die sich mit dem Betätigen von vier Tasten in der 
 richtigen Reihenfolge öffnen lässt. Wird eine Taste betätigt, leuchtet die darüber liegende LED. 
 Ist der Tasten-Code richtig eingegeben, gehen die vier weißen LEDs über den Tasten aus, eine grüne 
-LED leuchtet und der Servo-Motor öffnet den Verschluss. Ist die Schatzkiste geöffnet, kann mit jeder 
+LED leuchtet und die beiden Servo-Motoren öffnen den Verschluss. Ist die Schatzkiste geöffnet, kann mit jeder 
 beliebigen Taste die Schatzkiste wieder verschlossen werden. Ist der Code falsch eingegeben, erlöschen 
 die vier LEDS und die Schatzkiste bleibt verschlossen.
 Im inneren der Schatzkiste ist ein Reed-Kontakt versteckt. Nur der Eigentümer der Schatzkiste weiß, 
