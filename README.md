@@ -16,7 +16,7 @@ der Code erhalten bleibt.
 
 Die Schatzkiste
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/Schatzkiste.png)
+![Schatzkiste](/pic/Schatzkiste.png)
 
 ---
 
@@ -56,7 +56,7 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Montiere die LEDs und die Taster an die Gehäuse-Front
 + Verklebe die Gehäuseteile. Die untere Rückwand wird nicht verklebt
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/schatzkiste_lk.png)
+![Schatzkiste](/pic/schatzkiste_lk.png)
 
 
 ---
@@ -65,7 +65,7 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Zeichne und drucke 4 Platinen Füße für den NANO, D=5mm x 5mm
 + Klebe die Füße auf die Unterseite des NANO-Shields
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/spacer5mm.png)
+![Schatzkiste](/pic/spacer5mm.png)
 
 
 ---
@@ -74,29 +74,29 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Bestücke das NANO-Shield mit den Buchsenleisten und den beiden Stiftleisten für die Servo-Motore
 + Biege an einem Ende der Widerstände und am +Pol der LEDs eine Öse
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/r-led.jpg)
+![Schatzkiste](/pic/r-led.jpg)
 
 
 Führe Anschlussdrähte für die Widerstände und der LEDs durch die Öse und Löte sie an
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk10.png)
+![Schatzkiste](/pic/sk10.png)
 
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk10.png)
+![Schatzkiste](/pic/sk10.png)
 
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk12.png)
+![Schatzkiste](/pic/sk12.png)
 
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/sk13.png)
+![Schatzkiste](/pic/sk13.png)
 
 
 Verdrahte das Shield, die LEDs, Taster und den Reed-Kontakt nach den Verdrahtungsplan
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/Shield.png)
+![Schatzkiste](/pic/Shield.png)
 
 
-![Schatzkiste](https://github.com/frankyhub/Schatzkiste/blob/main/pic/Verdrahtung.png)
+![Schatzkiste](/pic/Verdrahtung.png)
 
 
 ---
