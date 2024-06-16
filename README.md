@@ -2,6 +2,8 @@
 
 # Schatzkiste
 
+## Story
+
 Mit diesem Projekt wird eine Schatzkiste gebaut, die sich mit dem Betätigen von vier Tasten in der 
 richtigen Reihenfolge öffnen lässt. Wird eine Taste betätigt, leuchtet die darüber liegende LED. 
 Ist der Tasten-Code richtig eingegeben, gehen die vier weißen LEDs über den Tasten aus, eine grüne 
