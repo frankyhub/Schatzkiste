@@ -115,7 +115,7 @@ Verdrahte das Shield, die LEDs, Taster und den Reed-Kontakt nach den Verdrahtung
 <br> <br>
 
 
-<img src="pic/Verdrahtungpng.png" width="500"> 
+<img src="pic/Verdrahtung.png" width="500"> 
 <br> <br>
 
 
