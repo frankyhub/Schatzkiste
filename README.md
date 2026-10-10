@@ -115,10 +115,10 @@ Verdrahte das Shield, die LEDs, Taster und den Reed-Kontakt nach den Verdrahtung
 <br> <br>
 
 
-<img src="pic/Verdrahtungpng" width="500"> 
+<img src="pic/Verdrahtungpng.png" width="500"> 
 <br> <br>
 
-![Schatzkiste](/pic/Verdrahtung.png)
+
 
 
 ---
