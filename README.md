@@ -5,11 +5,10 @@
 |[:skull:ISSUE](https://github.com/frankyhub/Schatzkiste/issues?q=is%3Aissue)|[:speech_balloon: Forum /Discussion](https://github.com/frankyhub/Schatzkiste/discussions)|[:grey_question:WiKi](https://github.com/frankyhub/Schatzkiste/wiki)||
 |--|--|--|--|
 | | | | |
-|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2044-blue)|<a href="https://github.com/frankyhub/Schatzkiste/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Schatzkiste)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Schatzkiste)|<a href="https://github.com/frankyhub/Schatzkiste/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Schatzkiste)|<a href="https://github.com/frankyhub/Schatzkiste/releases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Schatzkiste)|
-|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Schatzkiste)| <a href="https://github.com/frankyhub/Schatzkiste/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Schatzkiste/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)|
+<a href="https://github.com/frankyhub/Schatzkiste/issues">![GitHub issues](https://img.shields.io/github/issues/frankyhub/Schatzkiste)![GitHub closed issues](https://img.shields.io/github/issues-closed/frankyhub/Schatzkiste)|<a href="https://github.com/frankyhub/Schatzkiste/discussions">![GitHub Discussions](https://img.shields.io/github/discussions/frankyhub/Schatzkiste)|<a href="https://github.com/frankyhub/Schatzkiste/6eleases">![GitHub release (with filter)](https://img.shields.io/github/v/release/frankyhub/Schatzkiste)|![Static Badge](https://img.shields.io/badge/RepoNr.:-%2044-blue)|
+|![GitHub Created At](https://img.shields.io/github/created-at/frankyhub/Schatzkiste)| <a href="https://github.com/frankyhub/Schatzkiste/pulse" alt="Activity"><img src="https://img.shields.io/github/commit-activity/m/badges/shields" />| <a href="https://github.com/frankyhub/Schatzkiste/graphs/traffic"><img alt="ViewCount" src="https://views.whatilearened.today/views/github/frankyhub/github-clone-count-badge.svg">  |<a href="https://github.com/frankyhub?tab=stars"> ![GitHub User's stars](https://img.shields.io/github/stars/frankyhub)||
+
 </div>
-
-
 
 # Schatzkiste
 
@@ -29,7 +28,9 @@ der Code erhalten bleibt.
 
 Die Schatzkiste
 
-![Schatzkiste](/pic/Schatzkiste.png)
+<img src="pic/Schatzkiste.png" width="500"> 
+<br> <br>
+
 
 ---
 
@@ -69,7 +70,9 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Montiere die LEDs und die Taster an die Gehäuse-Front
 + Verklebe die Gehäuseteile. Die untere Rückwand wird nicht verklebt
 
-![Schatzkiste](/pic/schatzkiste_lk.png)
+<img src="pic/Schatzkiste_1k.png" width="500"> 
+<br> <br>
+
 
 
 ---
@@ -78,8 +81,8 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Zeichne und drucke 4 Platinen Füße für den NANO, D=5mm x 5mm
 + Klebe die Füße auf die Unterseite des NANO-Shields
 
-![Schatzkiste](/pic/spacer5mm.png)
-
+<img src="pic/spacer5mm.png" width="500"> 
+<br> <br>
 
 ---
 
@@ -87,27 +90,33 @@ Der Aufbau und die Montage der Schatzkiste ist in mehrere Schritte unterteilt.
 + Bestücke das NANO-Shield mit den Buchsenleisten und den beiden Stiftleisten für die Servo-Motore
 + Biege an einem Ende der Widerstände und am +Pol der LEDs eine Öse
 
-![Schatzkiste](/pic/r-led.jpg)
-
+<img src="pic/r-led.png" width="500"> 
+<br> <br>
 
 Führe Anschlussdrähte für die Widerstände und der LEDs durch die Öse und Löte sie an
 
-![Schatzkiste](/pic/sk10.png)
+<img src="pic/sk10.png" width="500"> 
+<br> <br>
+
+<img src="pic/sk11.png" width="500"> 
+<br> <br>
 
 
-![Schatzkiste](/pic/sk10.png)
+<img src="pic/sk12.png" width="500"> 
+<br> <br>
 
 
-![Schatzkiste](/pic/sk12.png)
-
-
-![Schatzkiste](/pic/sk13.png)
-
+<img src="pic/sk13.png" width="500"> 
+<br> <br>
 
 Verdrahte das Shield, die LEDs, Taster und den Reed-Kontakt nach den Verdrahtungsplan
 
-![Schatzkiste](/pic/Shield.png)
+<img src="pic/Shield.png" width="500"> 
+<br> <br>
 
+
+<img src="pic/Verdrahtungpng" width="500"> 
+<br> <br>
 
 ![Schatzkiste](/pic/Verdrahtung.png)
 
